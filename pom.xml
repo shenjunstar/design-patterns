@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.xtremee.gper</groupId>
+    <artifactId>design-patterns</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>ch-001-factory</module>
+        <module>ch-002-singleton</module>
+        <module>ch-003-prototype</module>
+        <module>ch-004-proxy</module>
+        <module>ch-005-delegate</module>
+        <module>ch-006-strategy</module>
+        <module>ch-007-template</module>
+        <module>ch-008-adapter</module>
+        <module>ch-009-decorator</module>
+        <module>ch-010-observer</module>
+    </modules>
+
+
+</project>
