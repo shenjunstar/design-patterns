@@ -1,4 +1,4 @@
-package com.xtremee.gper.proxy.dynamicProxy.jdk;
+package com.xtremee.gper.proxy.dynamicproxy.jdk;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

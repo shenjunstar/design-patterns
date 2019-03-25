@@ -1,4 +1,4 @@
-package com.xtremee.gper.proxy.dynamicProxy.cglib;
+package com.xtremee.gper.proxy.dynamicproxy.cglib;
 
 /**
  * CglibStaffProxy

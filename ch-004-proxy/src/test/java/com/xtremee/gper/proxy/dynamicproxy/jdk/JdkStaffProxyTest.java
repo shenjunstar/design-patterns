@@ -1,10 +1,8 @@
-package com.xtremee.gper.proxy.dynamicProxy.jdk;
+package com.xtremee.gper.proxy.dynamicproxy.jdk;
 
 import com.xtremee.gper.proxy.GoodStaff;
 import com.xtremee.gper.proxy.IStaff;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class JdkStaffProxyTest {
 
